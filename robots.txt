@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+Disallow: /magazines_17/
+Sitemap: http://www.1-magazine-subscription.com/sitemap.xml 
